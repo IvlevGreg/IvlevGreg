@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**IvlevGreg/IvlevGreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page!
+I'm Greg, a 24 years old web Frontend developer from Moscow.
 
-Here are some ideas to get you started:
+## Things I code with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 TypeScript, JavaScript
+- ⚛️ React, Redux
+- ✨ SASS, CSS, PUG
+- 📦 Webpack, Gulp, Parcel
+- 🗃️ MySQL, SQL, Mongo
+
+## Latest projects:
+* React & TS: [зеркало Reddit](https://www.yandex.ru) 
+* JS: [база данных студентов](https://www.yandex.ru) 
+* Weblayout: [художественная галерея](https://www.yandex.ru) 
+
+## You can find more projects:
+- here 
+- or here
+
+## Contact
+- [@IGregor](https://t.me/Igregor) on Telegram
+- <a href="mailto:igs94@mail.ru">igs94@mail.ru</a> on email
+
+
