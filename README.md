@@ -25,7 +25,7 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 - or here
 
 ## Contact
-- [@IGregor](https://t.me/Igregor){:target="_blank"} on Telegram
+- [@IGregor](https://t.me/Igregor) on Telegram
 - <a href="mailto:igs94@mail.ru">igs94@mail.ru</a> on email
 
 
