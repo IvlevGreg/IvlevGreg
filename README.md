@@ -25,7 +25,7 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 ### More projects:
 - React & TS: [🧑🏻 Personal page ]() (in progress)
 - JS: [🎯 Todo app](https://ivlevgreg.github.io/Todo/)
-- JS: [🤳🏻 Gorest blog](https://ivlevgreg.github.io/GorestBlog/)
+- JS: [🤳🏻 Gorest blog](https://github.com/IvlevGreg/GorestBlog)
 - Pug & Sass: [📸 Photo studio High pass](https://github.com/IvlevGreg/HighPass)
 
 ## Contact
