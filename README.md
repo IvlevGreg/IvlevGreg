@@ -6,6 +6,7 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 ## Things I code with:
 
 - 👨‍💻 TypeScript, JavaScript
+- 🔎 Jest, Cypress
 - ⚛️ React, Redux
 - ✨ SASS, CSS, PUG
 - 📦 Webpack, Gulp, Parcel
