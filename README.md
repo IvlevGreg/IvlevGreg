@@ -16,14 +16,16 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 
 ### Latest projects:
 
-* React & TS: [🤖 Reddit mirror ]()
+* React & TS: [🤖 Reddit mirror ](https://github.com/IvlevGreg/RedditMirror)
 * JS: [👨‍🎓 Internal students data portal](https://github.com/IvlevGreg/StudentsData) 
 * JS & Cypress: [🎴🎮 Memory game](https://github.com/IvlevGreg/MemoryGame) 
 * JS & Jest: [💳 Payment page](https://github.com/IvlevGreg/PaymentPage) 
 * Weblayout: [🖼 Art gallery Blanchard](https://github.com/IvlevGreg/Blanchard) 
 
-### You can find more projects:
+### More projects:
 - React & TS: [🧑🏻 Personal page ]() (in progress)
+- JS: [🎯 Todo app](https://ivlevgreg.github.io/Todo/)
+- JS: [🤳🏻 Gorest blog](https://ivlevgreg.github.io/GorestBlog/)
 - Pug & Sass: [📸 Photo studio High pass](https://github.com/IvlevGreg/HighPass)
 
 ## Contact
