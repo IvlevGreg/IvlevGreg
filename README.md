@@ -5,10 +5,10 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 
 ## Things I code with:
 
+- ⚛️ React, Redux
 - 👨‍💻 TypeScript, JavaScript
 - 🔎 Jest, Cypress
-- ⚛️ React, Redux
-- ✨ SASS, CSS, PUG
+- ✨ Sass, CSS, PUG
 - 📦 Webpack, Gulp, Parcel
 - 🗃️ MySQL, SQL, Mongo
 
@@ -16,14 +16,15 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 
 ### Latest projects:
 
-* React & TS: [зеркало Reddit](https://www.yandex.ru) 
-* JS: [база данных студентов](https://www.yandex.ru) 
-* JS & Jest: [Memory game](https://www.yandex.ru) 
-* Weblayout: [художественная галерея](https://www.yandex.ru) 
+* React & TS: [🤖 Reddit mirror ]()
+* JS: [👨‍🎓 Internal students data portal](https://github.com/IvlevGreg/StudentsData) 
+* JS & Cypress: [🎴🎮 Memory game](https://github.com/IvlevGreg/MemoryGame) 
+* JS & Jest: [💳 Payment page](https://github.com/IvlevGreg/PaymentPage) 
+* Weblayout: [🖼 Art gallery Blanchard](https://github.com/IvlevGreg/Blanchard) 
 
 ### You can find more projects:
-- here 
-- or here
+- React & TS: [🧑🏻 Personal page ]() (in progress)
+- Pug & Sass: [📸 Photo studio High pass](https://github.com/IvlevGreg/HighPass)
 
 ## Contact
 - [@IGregor](https://t.me/Igregor) on Telegram
