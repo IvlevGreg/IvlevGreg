@@ -5,7 +5,7 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 
 ## Things I code with:
 
-- ⚛️ React, Redux
+- ⚛️ React, Redux, MobX, React Router
 - 👨‍💻 TypeScript, JavaScript
 - 🔎 Jest, Cypress
 - ✨ Sass, CSS, PUG
