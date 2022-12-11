@@ -10,7 +10,7 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 - 🔎 Jest, Cypress
 - ✨ Sass, CSS, PUG
 - 📦 Webpack, Gulp, Parcel
-- 🗃️ MySQL, SQL, Mongo
+- 🗃️ MySQL, PostgreSQL, MongoDB
 
 ## Projects:
 
