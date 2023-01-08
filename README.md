@@ -10,7 +10,6 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 - 🔎 Jest, Cypress
 - ✨ Sass, CSS, PUG
 - 📦 Webpack, Gulp, Parcel
-- 🗃️ MySQL, PostgreSQL, MongoDB
 
 ## Projects:
 
@@ -23,7 +22,7 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 * Weblayout: [🖼 Art gallery Blanchard](https://github.com/IvlevGreg/Blanchard) 
 
 ### More projects:
-- React & TS: [Pomodoro]() (in progress)
+- React & TS: [Pomodoro](https://github.com/IvlevGreg/Pomodoro) (in progress)
 - JS: [🎯 Todo app](https://github.com/IvlevGreg/Todo)
 - JS: [🤳🏻 Gorest blog](https://github.com/IvlevGreg/GorestBlog)
 - Pug & Sass: [📸 Photo studio High pass](https://github.com/IvlevGreg/HighPass)
