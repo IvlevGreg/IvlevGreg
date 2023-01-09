@@ -27,7 +27,7 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 - JS: [🤳🏻 Gorest blog](https://github.com/IvlevGreg/GorestBlog)
 - Pug & Sass: [📸 Photo studio High pass](https://github.com/IvlevGreg/HighPass)
 
-## Contact
+## Contact:
 - [@IGregor](https://t.me/Igregor) on Telegram
 - <a href="mailto:igs94@mail.ru">igs94@mail.ru</a> on email
 
