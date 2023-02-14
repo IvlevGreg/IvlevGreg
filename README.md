@@ -21,11 +21,11 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 ### Latest projects:
 
 * React (Redux) & TS: [🤖 Reddit mirror ](https://github.com/IvlevGreg/RedditMirror)
-* React (MobX) & TS: [🍅 Pomodoro](https://github.com/IvlevGreg/Pomodoro) (in progress)
 * JS & Node.js & Sass : [🤵 Client contact data system](https://github.com/IvlevGreg/ClientData) 
 * JS & Cypress: [🎴🎮 Memory game](https://github.com/IvlevGreg/MemoryGame) 
 * JS & Jest: [💳 Payment page](https://github.com/IvlevGreg/PaymentPage) 
 * Weblayout: [🖼 Art gallery Blanchard](https://github.com/IvlevGreg/Blanchard) 
+<!-- * React (MobX) & TS: [🍅 Pomodoro](https://github.com/IvlevGreg/Pomodoro) (in progress) -->
 
 ### More projects:
 - JS: [👨‍🎓 Internal students data portal](https://github.com/IvlevGreg/StudentsData) 
