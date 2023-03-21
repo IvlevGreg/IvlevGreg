@@ -13,8 +13,6 @@ I'm Greg, a 24 years old web Frontend developer from Moscow.
 
 ### Learning now:
 - 🕸️ Node.js, Express.js
-- <img  width="15px"  src="https://user-images.githubusercontent.com/95238714/211811183-3201b9ae-ba9f-4980-9ef7-6ee23dfd065b.svg">⠀Vue, VueX, VueRouter, Vue Server Renderer
-
 
 ## Projects:
 
