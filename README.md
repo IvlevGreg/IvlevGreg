@@ -3,8 +3,6 @@
 Welcome to my page!
 I'm Greg, a 24 years old web Frontend developer from Moscow.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ivlevgreg&theme=dark)](https://git.io/streak-stats)
-
 ## Things I code with:
 
 - ⚛️ React, Redux, MobX, React Router
