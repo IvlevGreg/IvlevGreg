@@ -6,7 +6,7 @@ I'm Greg, a 25 years old web Frontend developer from Moscow.
 ## Things I code with:
 
 - ⚛️ React, Next.js, Redux Toolkit, RTK Query, MobX
-- 👨‍💻 TypeScript, JavaScript, FSD
+- 👨‍💻 FSD, TypeScript, JavaScript
 - 🔎 Jest, RTL, Cypress, Storybook, Chromatic
 - ✨ Sass,Styled components, CSS, PUG
 - 🗂️ Webpack, Vite, Gulp, Parcel
