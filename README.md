@@ -16,7 +16,7 @@ I'm Greg, a 25 years old web Frontend developer from Moscow.
 
  ### Learning now:
  - 💾 SQL DB, PostgreSQL
-<!-- … --> 
+
 
 ## Projects:
 
@@ -33,8 +33,9 @@ I'm Greg, a 25 years old web Frontend developer from Moscow.
 * JS & Jest: [💳 Payment page](https://github.com/IvlevGreg/PaymentPage)
 * React (MobX) & TS: [🍅 Pomodoro](https://github.com/IvlevGreg/Pomodoro)
 
-
 <!-- *
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivlevgreg&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivlevgreg&layout=compact&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)
 
 - Weblayout: [🖼 Art gallery Blanchard](https://github.com/IvlevGreg/Blanchard) 
 - JS: [👨‍🎓 Internal students data portal](https://github.com/IvlevGreg/StudentsData) 
