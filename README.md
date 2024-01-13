@@ -23,7 +23,8 @@ I'm Greg, a 25 years old web Frontend developer from Moscow.
 ### Latest projects:
 
 *  FSD & React & Redux Toolkit & RTK Query & CI/CD: [📰 Article-stream  ](https://github.com/IvlevGreg/article)
-*  Express.js & MongoDB & React: [🎥 Movies saver](https://github.com/IvlevGreg/movies-explorer-api)
+*  Express.js & MongoDB & Jest & Helmet : [🎥 Movies saver api](https://github.com/IvlevGreg/movies-explorer-api)
+*  React & Redux & React hook form: [🎥 Movies saver frontend](https://github.com/IvlevGreg/movies-explorer-api)
 *  SSR & React & TS: [🤖 Reddit mirror](https://github.com/IvlevGreg/RedditMirror)
 
 ### More projects:
